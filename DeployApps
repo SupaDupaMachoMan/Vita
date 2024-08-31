@@ -2,6 +2,18 @@
   "Messages": {
 
    "Title": "Messages",
-   "Description": "Connect with other players"
+   "Description": "Connect with other players."
+ },
+
+ "Apps": {
+
+  "Title": "Apps",
+  "Description": "Manage your apps."
+ },
+
+ "Editor": {
+
+  "Title": "Editor",
+  "Description": "Create, edit and publish your creations."
  }
 }
