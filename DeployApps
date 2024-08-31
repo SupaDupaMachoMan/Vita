@@ -1,3 +1,7 @@
 {
-  "message": "hello"
+  "Messages": {
+
+   "Title": "Messages",
+   "Description": "Connect with other players"
+ }
 }
