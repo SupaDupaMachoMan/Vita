@@ -2,18 +2,21 @@
   "Messages": {
 
    "Title": "Messages",
-   "Description": "Connect with other players."
+   "Description": "Connect with other players.",
+   "BackgroundColor": "159, 84, 184"
  },
 
  "Apps": {
 
   "Title": "Apps",
-  "Description": "Manage your apps."
+  "Description": "Manage your apps.",
+  "BackgroundColor": "59, 172, 59"
  },
 
  "Editor": {
 
   "Title": "Editor",
-  "Description": "Create, edit and publish your creations."
+  "Description": "Create, edit and publish your creations.",
+  "BackgroundColor": "87, 255, 87"
  }
 }
